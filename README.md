@@ -1,4 +1,4 @@
-<img src="" alt="ebac-logo"> 
+<img src="https://github.com/Thomaz-bp/previsao-renda/blob/main/newebac_logo_black_half.png?raw=true" alt="ebac-logo"> 
 
 ---
 
