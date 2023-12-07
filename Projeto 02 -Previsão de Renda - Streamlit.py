@@ -139,7 +139,7 @@ st.markdown('''
 # VERIFICAR ARQUIVOS LOCAIS:
 # path_to_find = os.listdir()
 # st.title(path_to_find)
-filepath = 'c:/Users/cacat/Documents/mod16/EBAC-Projeto-02-Previsao-de-Renda-main/input/previsao_de_renda.csv'
+filepath = './input/previsao_de_renda.csv'
 dfrenda = pd.read_csv(filepath_or_buffer=filepath)
 
 buffer = io.StringIO()
