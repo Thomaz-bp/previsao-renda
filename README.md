@@ -10,3 +10,7 @@ Data: 07 de dezembro de 2023.
  
 ---
 
+
+https://github.com/Thomaz-bp/previsao-renda/assets/120085540/b76be4ff-c853-4277-af6f-8de3fe399d64
+
+
