@@ -316,7 +316,7 @@ with st.expander("Análise das variáveis qualitativas ao longo do tempo", expan
         axes[0].legend(bbox_to_anchor=(1, .5), loc=6, title=f"'{col}'")
         # perfis médios no tempo:
         ax1 = sns.pointplot(x='data_ref', y='renda', hue=col,
-                            data=dfrenda, dodge=True, ci=95, ax=axes[1])
+                            data=dfrenda, dodge=True, errorbar=('ci', 95), ax=axes[1])
         ax1.set_xticklabels(labels=tick_labels, rotation=45)
         axes[1].legend(bbox_to_anchor=(1, .5), loc=6, title=f"'{col}'")
         st.pyplot(plt)
